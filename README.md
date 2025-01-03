@@ -1,12 +1,13 @@
 ##### AtliQ-Hardware-Business-Insights-360  
+## Welcome to AtliQ Hardware Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ3ZmI3OTAtNWIwNi00MzE3LThmNmYtNzdhMTM4MDAyYTQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-
+This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
 
-I, Srinath, worked on this project by following the Codebasics PowerBi Course and used the following tools and techniques:
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGQ3ZmI3OTAtNWIwNi00MzE3LThmNmYtNzdhMTM4MDAyYTQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+I, Sangeeta , worked on this project by following tools and techniques:
 
 **Tech Stacks:**
 
