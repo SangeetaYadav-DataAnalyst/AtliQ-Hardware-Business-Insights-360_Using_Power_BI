@@ -10,7 +10,7 @@ AtliQ Hardware has experienced rapid growth in recent years, expanding its opera
 
 This project marks AtliQ’s first step into Power BI, to empower stakeholders to make better decisions using real-time analytics. The focus areas for this project span finance, sales, marketing, and supply chain operations.
 
-I worked on this project while following the Codebasics Power BI Course, which provided me with the foundational knowledge and tools to build this end-to-end solution. Here’s a detailed breakdown of my journey:
+I, Sangeeta , worked on this project by following tools and techniques:
 
 ## 📌 Project Kickoff: Key Questions to Ask Before Starting
 Before diving into the project, I focused on clarifying the objectives and understanding stakeholder expectations. These were some key questions that helped guide the process:
@@ -61,9 +61,6 @@ Key practices followed:
 - Using surrogate keys for relationships.
 - Creating a date table using M language for consistent time-based analysis.
   
-
-I, Sangeeta , worked on this project by following tools and techniques:
-
 **Tech Stacks:**
 
 1. SQL
