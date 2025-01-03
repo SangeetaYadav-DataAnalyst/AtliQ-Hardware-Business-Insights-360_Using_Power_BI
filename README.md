@@ -4,7 +4,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzhmOGRkNDctYjFiYy00MzMxLWFkNWQtZTM4ODE4ZmRiNDQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjliZjFjY2YtMTE4OC00NTBmLWE4ZmEtNTU5YzJhN2Q1ZTQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 I, Sangeeta , worked on this project by following tools and techniques:
 
