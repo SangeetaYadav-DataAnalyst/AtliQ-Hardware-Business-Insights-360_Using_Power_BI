@@ -6,6 +6,61 @@ AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data a
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjliZjFjY2YtMTE4OC00NTBmLWE4ZmEtNTU5YzJhN2Q1ZTQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
+## Project Overview
+
+AtliQ Hardware has experienced rapid growth in recent years, expanding its operations globally and serving customers through three primary **channels—retailers, direct sales, and distributors**. However, the company recently faced a major setback when a new store in America, launched based on intuition and limited Excel analysis, resulted in unforeseen losses. Meanwhile, competitors with strong analytics teams were making data-driven decisions, leaving AtliQ with no choice but to embrace a data analytics culture to remain competitive.
+
+This project marks AtliQ’s first step into Power BI, to empower stakeholders to make better decisions using real-time analytics. The focus areas for this project span finance, sales, marketing, and supply chain operations.
+
+I worked on this project while following the Codebasics Power BI Course, which provided me with the foundational knowledge and tools to build this end-to-end solution. Here’s a detailed breakdown of my journey:
+
+## 📌 Project Kickoff: Key Questions to Ask Before Starting
+Before diving into the project, I focused on clarifying the objectives and understanding stakeholder expectations. These were some key questions that helped guide the process:
+
+1. What is the primary objective of building this Power BI dashboard?
+2. How will the success of this project be measured?
+3. What is the timeline for the project, and are there any preview milestones?
+4. What hopes and fears do stakeholders have regarding this dashboard?
+5. Who will be using the dashboard, and for what purpose?
+6. What resources and data are required to build the dashboard?
+7. Are there any specific design preferences or expectations from stakeholders?
+
+This initial phase was critical to ensure alignment with business needs and to avoid rework later in the process.
+
+## 📊 Understanding the Dataset
+
+Once the project goals were clear, I explored the data the data engineering team provided. Here's a high-level view of the datasets:
+
+### Dimension Tables
+
+- **dim_customer:** Includes static details like customer names, markets, and platforms (e.g., Brick & Mortar, E-commerce).
+- **dim_market:** Contains information on 27 distinct markets, 7 sub-zones, and 4 regions (APAC, EU, LATAM, and NAN).
+- **dim_product:** Lists product categories and divisions, such as PCs, peripherals, and networking equipment.
+
+### Fact Tables
+
+- **fact_forecast_monthly:** Holds forecasted customer demand for improved inventory planning and cost optimization.
+- **fact_sales_monthly:** Similar to the forecast table, but includes actual sold quantities.
+
+### Additional Tables
+
+- **freight_cost:** Transportation costs for each market.
+- **gross_price:** Product pricing details.
+- **pre_invoice_deductions & post_invoice_deductions:** Deductions applied before and after invoicing.
+- **manufacturing_cost:** Product manufacturing costs by year.
+
+The data engineering team ensured that the datasets were denormalized for analytics purposes. However, understanding the structure of dimension and fact tables was crucial for effective data modeling in Power BI.
+
+## 📐 Data Modeling
+
+Data modeling forms the foundation of any successful Power BI project. For this report, I followed the **snowflake schema** to ensure optimized performance and ease of use. Poor data modeling can negatively impact report performance, so I paid special attention to relationships, cardinality, and ensuring clean joins.
+
+Key practices followed:
+
+- Avoiding circular dependencies.
+- Using surrogate keys for relationships.
+- Creating a date table using M language for consistent time-based analysis.
+
 I, Sangeeta , worked on this project by following tools and techniques:
 
 **Tech Stacks:**
