@@ -1,4 +1,3 @@
-##### AtliQ-Hardware-Business-Insights-360  
 ## Welcome to AtliQ Hardware Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
@@ -45,22 +44,22 @@ This project aims to clarify the purpose and goals of the data analytics initiat
 **Overall Report**
 
 Home Page of the Dashboard
-![h](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/58e70799-b228-4691-bbd5-2f93e341ca16)
+![h](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/Home.png)
 
 Finance View
-![f](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0825e7c3-3090-423e-9470-12d81a2e371e)
+![f](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/finance.png)
 
 Sales View
-![s](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/e59ddda7-8d39-4f7c-8076-9c21885c4c3e)
+![s](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/Sales.png)
 
 Marketing View
-![m](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/0ffcf851-b993-46a3-8931-4424b3b2c014)
+![m](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/marketing.png)
 
 Supply Chain View
-![sp](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/7328cfef-d6a6-4ffe-bc0a-12c75cdfe870)
+![sp](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/Supply_Chain.png)
 
 Executive View
-![e](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/205ea814-11a1-4ead-8121-e9cf81592728)
+![e](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/executive.png)
 
 Info Page
 ![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
