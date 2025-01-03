@@ -62,9 +62,9 @@ Executive View
 ![e](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/executive.png)
 
 Info Page
-![i](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/b75569d5-1d29-4373-9d20-a80638081dbd)
+![i](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/info.png)
 
 Support Page
-![sprt](https://github.com/srinathankolla/Business-Insights-360-of-Atliq-Hardwares/assets/115559003/897e23dc-3467-4f5d-b10f-98c09fbaa69b)
+![sprt](https://github.com/SangeetaYadav-DataAnalyst/AtliQ-Hardware-Business-Insights-360/blob/main/Support.png)
 
 Your thoughts and feedback are highly appreciated. Let's continue this data-driven journey together!
