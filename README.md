@@ -54,10 +54,13 @@ The data engineering team ensured that the datasets were denormalized for analyt
 Data modeling forms the foundation of any successful Power BI project. For this report, I followed the **snowflake schema** to ensure optimized performance and ease of use. Poor data modeling can negatively impact report performance, so I paid special attention to relationships, cardinality, and ensuring clean joins.
 
 Key practices followed:
+![h](https://github.com/user-attachments/assets/1eaab072-d23e-459a-8e24-be9ad0832042)
+
 
 - Avoiding circular dependencies.
 - Using surrogate keys for relationships.
 - Creating a date table using M language for consistent time-based analysis.
+  
 
 I, Sangeeta , worked on this project by following tools and techniques:
 
