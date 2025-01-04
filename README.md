@@ -4,7 +4,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjliZjFjY2YtMTE4OC00NTBmLWE4ZmEtNTU5YzJhN2Q1ZTQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## Project Overview
+### Project Overview
 
 AtliQ Hardware has experienced rapid growth in recent years, expanding its operations globally and serving customers through three primary **channels—retailers, direct sales, and distributors**. However, the company recently faced a major setback when a new store in America, launched based on intuition and limited Excel analysis, resulted in unforeseen losses. Meanwhile, competitors with strong analytics teams were making data-driven decisions, leaving AtliQ with no choice but to embrace a data analytics culture to remain competitive.
 
